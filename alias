@@ -48,4 +48,9 @@ alias gst='git status'
 alias gts='git status'
 alias gup='git pull --rebase'
 alias gwc='git whatchanged -p --abbrev-commit --pretty=medium'
+<<<<<<< HEAD
 alias st="shit happen"
+=======
+alias st="shit awd"
+
+>>>>>>> 3384e517a4f6ff3a8e53b717c385698458457970
