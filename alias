@@ -27,7 +27,8 @@ alias glo='git log --oneline'
 alias globurl='noglob urlglobber '
 alias glp=_git_log_prettily
 alias gm='git merge --no-ff'
-alias gp='git push'
+alias gpush='git push'
+alias gpull='git pull'
 alias poat='git push origin --all && git push origin --tags'
 alias gr='git remote'
 alias grh='git reset HEAD'
@@ -47,5 +48,9 @@ alias gst='git status'
 alias gts='git status'
 alias gup='git pull --rebase'
 alias gwc='git whatchanged -p --abbrev-commit --pretty=medium'
-alias st="shit"
+<<<<<<< HEAD
+alias st="shit happen"
+=======
+alias st="shit awd"
 
+>>>>>>> 3384e517a4f6ff3a8e53b717c385698458457970
